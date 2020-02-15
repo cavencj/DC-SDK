@@ -1,3 +1,3 @@
 # DC-SDK
 
-数字城市基本框架
+现在的框架迁移到 https://github.com/Digital-Visual/dc-sdk
